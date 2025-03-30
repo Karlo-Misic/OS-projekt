@@ -1,0 +1,7 @@
+http://localhost/test//Memory%20Management%20Simulation/Memory%20Management%20Simulation.html
+
+https://7322-93-139-104-210.ngrok-free.app/test//Memory%20Management%20Simulation/Memory%20Management%20Simulation.html
+
+ngrok http 80 --region eu
+
+ngrok http -region eu 80
